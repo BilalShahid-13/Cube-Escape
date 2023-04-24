@@ -8,3 +8,4 @@ I am working on C# language
 [Linkedin](https://www.linkedin.com/in/bilal-shahid-109490270/)
 
 [go](http://stackoverflow.com){:target="_blank"
+[my-link]: http://google.com
