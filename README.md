@@ -12,3 +12,10 @@ I am working on C# language
 <a href="[(http://google.com)](http://google.com)" target="_blank"></a>
 [test](http://test.com)
 [my website](www.google.com)
+
+Live Demo: [demo](https://example.com){:target="_blank"} //kramdown
+
+Live Demo: [demo](https://example.com){target="_blank"} //markdown
+
+Live Demo: <a href="https://example.com" target="_blank">demo</a> //html
+
