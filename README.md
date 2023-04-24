@@ -6,3 +6,5 @@ I am working on C# language
 [Portfolio](https://bilalhere.dorik.io/)
 <br>
 [Linkedin](https://www.linkedin.com/in/bilal-shahid-109490270/)
+
+[go](http://stackoverflow.com){:target="_blank"
