@@ -10,3 +10,4 @@ I am working on C# language
 [go](http://stackoverflow.com){:target="_blank"
 [my-link]: http://google.com
 [go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+<a href="[(http://google.com)](http://google.com)" target="_blank"></a>
